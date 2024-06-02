@@ -1,4 +1,4 @@
-# Capstone-Module-2
+# Capstone Module 2
 
 In this Capstone project, I will analyze online retail shipping data. The main goal is to address the high number of deliveries that didn't arrive on time, which is almost half of the total shipments.
 
