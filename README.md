@@ -63,3 +63,9 @@ The graph and the chi-square test show that orders with three prior purchases ar
 * Use advanced routing software to find the best routes, considering traffic, road conditions, and weather. This can help reduce transit times and increase on-time deliveries.
 * Implement a tracking system for customers to monitor their deliveries. This transparency can improve customer satisfaction.
 * When possible, use the same driver or 3PL for repeat customers. This helps the driver get familiar with the location and speeds up delivery.
+
+## Data Visualization
+
+Link to Tableau: https://public.tableau.com/app/profile/arif.h./viz/CapstoneModule2Story/CapstoneProjectModule2
+
+## Thank you
