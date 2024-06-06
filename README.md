@@ -68,6 +68,6 @@ The graph and the chi-square test show that orders with three prior purchases ar
 
 Link to Tableau Story: https://public.tableau.com/app/profile/arif.h./viz/CapstoneModule2Story/CapstoneProjectModule2
 
-Link to Tabelau Dashboard: https://public.tableau.com/app/profile/arif.h./viz/CapstoneModule2Dashboard/Overview
+Link to Tableau Dashboard: https://public.tableau.com/app/profile/arif.h./viz/CapstoneModule2Dashboard/Overview
 
 ## Thank you
